@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActionBar</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Compartir</string>
+    <string name="menu_email">Email</string>
+    <string name="menu_llamar">Llamar</string>
+</resources>
